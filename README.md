@@ -1,6 +1,6 @@
 # Hey, I’m Sam 🧠✨
 
-> Web3 learner by moonlight. 7-7 worker by sunlight. Building my way to freedom—one contract at a time.
+> Web3 learner by moonlight. Building my way to freedom—one contract at a time.
 
 ---
 
@@ -13,7 +13,6 @@
 ---
 
 ### 🌱 On My Path To:
-- Earning $500+ from **testnet mastery**
 - Building meaningful **DeFi tools** for people like me
 - Becoming a trusted voice in **Web3** by showing, not just telling
 - Living off code, creativity & community
@@ -28,10 +27,10 @@
 ---
 
 ### 🛠️ My Projects (Pinned 🔝):
-- [solidity-projects](https://github.com/yourusername/solidity-projects) – mini contracts, challenges, & growth logs
-- [web3-resources](https://github.com/yourusername/web3-resources) – my personal curated list of notes & gold
-- [testnet-questlog](https://github.com/yourusername/testnet-questlog) – every chain I've touched & tasks completed
-- [soulstack](https://github.com/yourusername/soulstack) – a vision for something mythic in Web3
+- [solidity-projects](https://github.com/Codegobli/solidity-projects) – mini contracts, challenges, & growth logs
+- [web3-resources](https://github.com/Codegobli/web3-resources) – my personal curated list of notes & gold
+- [testnet-questlog](https://github.com/Codegobli/testnet-questlog) – every chain I've touched & tasks completed
+- [soulstack](https://github.com/Codegobli/soulstack) – a vision for something mythic in Web3
 
 ---
 
