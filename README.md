@@ -27,9 +27,11 @@
 ---
 
 ### 📬 Reach Me:
-- Twitter/X: [@yourhandle](https://twitter.com/yourhandle)
-- Farcaster: `sam.eth` (coming soon 😏)
-- Email: `sam@yourdomain.xyz` *(optional if you want)*
+
+- LinkedIn: [Afolabi Samson](https://www.linkedin.com/in/afolabi-samson-089997345?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- Twitter/X: [@sam2codegobli](https://x.com/sam20codegobli?t=80Qp9GXsYGUj15dblNO2eg&s=09)
+- Farcaster: `@codegobli` (https://farcaster.xyz/codegobli)
+- Email: `afolabisamson20@gmail.com`
 
 ---
 
