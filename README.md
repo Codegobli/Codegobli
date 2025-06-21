@@ -1,16 +1,10 @@
 # Hey, I’m Sam 🧠✨
 
-> Web3 learner by moonlight. Building my way to freedom—one contract at a time.
+> Web3 learner/Smart Contract Dev. Building my way to freedom one contract at a time.
 
----
 
 ### 🔭 Currently:
 - Learning **Solidity** and **Smart Contract Security**
-- Exploring **Testnets** & airdrops like it’s side-quest season 🎯
-- Mapping out **Soulstack**, my mythological chain of value
-- Diving into **Foundry** soon (once the laptop prophecy is fulfilled)
-
----
 
 ### 🌱 On My Path To:
 - Building meaningful **DeFi tools** for people like me
@@ -21,24 +15,13 @@
 
 ### 🧰 Tools, Skills & Spells:
 - `Solidity` | `Remix IDE` | `Git` | `Markdown`
-- Currently learning: `Foundry`, `Frontend for Solidity Devs`, `Gas Optimization`
-- Next up: `Security Audits`, `Zero Knowledge`, and maybe... `mythical L1 experimentation` 🔮
+- Currently learning:`Gas Optimization`Smart Contract Security`
+- Next up: `Security Audits`, `Zero Knowledge`, 
 
 ---
 
 ### 🛠️ My Projects (Pinned 🔝):
 - [solidity-projects](https://github.com/Codegobli/solidity-projects) – mini contracts, challenges, & growth logs
-- [web3-resources](https://github.com/Codegobli/web3-resources) – my personal curated list of notes & gold
-- [testnet-questlog](https://github.com/Codegobli/testnet-questlog) – every chain I've touched & tasks completed
-- [soulstack](https://github.com/Codegobli/soulstack) – a vision for something mythic in Web3
-
----
-
-### 🧭 Vibes, Values & Vision:
-- I believe in **code with soul** — not just shipping products, but shifting paradigms
-- I’m not here to *chase trends*. I’m here to build things people remember.
-- **Quiet conviction > loud hype.**  
-- One day, they’ll say “Sam was early.” Until then, we move 💨
 
 ---
 
