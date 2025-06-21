@@ -22,6 +22,7 @@
 
 ### 🛠️ My Projects (Pinned 🔝):
 - [Min Defi Bank](https://github.com/Codegobli/MiniDefiBank) – mini defi bank
+- [Multisig Wallet](https://github.com/Codegobli/MiniDefiBank) – Multisig Wallet 
 
 ---
 
