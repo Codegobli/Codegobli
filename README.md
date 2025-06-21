@@ -21,7 +21,7 @@
 ---
 
 ### 🛠️ My Projects (Pinned 🔝):
-- [solidity-projects](https://github.com/Codegobli/solidity-projects) – mini contracts, challenges, & growth logs
+- [Min Defi Bank](https://github.com/Codegobli/MiniDefiBank) – mini defi bank
 
 ---
 
