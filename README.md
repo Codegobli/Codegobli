@@ -1,4 +1,4 @@
-# Hey, I’m Sam 🧠✨
+# Hey, I’m Sam ✨
 
 > Web3 learner/Smart Contract Dev. Building my way to freedom one contract at a time.
 
@@ -9,13 +9,12 @@
 ### 🌱 On My Path To:
 - Building meaningful **DeFi tools** for people like me
 - Becoming a trusted voice in **Web3** by showing, not just telling
-- Living off code, creativity & community
 
 ---
 
 ### 🧰 Tools, Skills & Spells:
 - `Solidity` | `Remix IDE` | `Git` | `Markdown`
-- Currently learning:`Gas Optimization`Smart Contract Security`
+- Currently learning:`Gas Optimization``Smart Contract Security`
 - Next up: `Security Audits`, `Zero Knowledge`, 
 
 ---
@@ -23,6 +22,7 @@
 ### 🛠️ My Projects (Pinned 🔝):
 - [Min Defi Bank](https://github.com/Codegobli/MiniDefiBank) – mini defi bank
 - [Multisig Wallet](https://github.com/Codegobli/multisig-wallet-V1) – Multisig Wallet 
+- [Credra](https://github.com/Codegobli/multisig-wallet-V1) – Credra 
 
 ---
 
