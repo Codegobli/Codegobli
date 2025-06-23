@@ -33,6 +33,7 @@
 - Twitter/X: [@sam2codegobli](https://x.com/sam20codegobli?t=80Qp9GXsYGUj15dblNO2eg&s=09)
 - Farcaster: `@codegobli` (https://farcaster.xyz/codegobli)
 - Email: `afolabisamson20@gmail.com`
+- Mirror: `Sam` (https://mirror.xyz/0x38e9861056757EA6D47F709Bf31011B0E9a6D508)
 
 ---
 
@@ -40,3 +41,4 @@
 > —Me, every time I want to quit
 
 ---
+> 
