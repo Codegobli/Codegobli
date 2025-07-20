@@ -13,8 +13,8 @@
 ---
 
 ### 🧰 Tools, Skills & Spells:
-- `Solidity` | `Remix IDE` | `Git` | `Markdown`
-- Currently learning:`Gas Optimization``Smart Contract Security`
+- `Solidity` | `Remix IDE` | `Git` | `Foundry`
+- Currently buildng:`Credra`
 - Next up: `Security Audits`, `Zero Knowledge`, 
 
 ---
