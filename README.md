@@ -12,10 +12,10 @@
 
 ---
 
-### 🧰 Tools, Skills & Spells:
+### 🧰 Tools, Skills:
 - `Solidity` | `Remix IDE` | `Git` | `Foundry`
 - Currently buildng:`Credra`
-- Next up: `Security Audits`, `Zero Knowledge`, 
+- Next up: `Defi Protocols`,`Security Audits`, `Zero Knowledge`, 
 
 ---
 
@@ -23,6 +23,7 @@
 - [Min Defi Bank](https://github.com/Codegobli/MiniDefiBank) – mini defi bank
 - [Multisig Wallet](https://github.com/Codegobli/multisig-wallet-V1) – Multisig Wallet
 - [Credra](https://github.com/Codegobli/Credra) –  Credra
+- [Onchain-Resume](https://github.com/Codegobli/onchain-resume) – Onchain-Resume
 
 
 ---
