@@ -1,45 +1,57 @@
-# Hey, I’m Sam ✨
+# Hey, I'm Sam 👋
 
-> Web3 learner/Smart Contract Dev. Building my way to freedom one contract at a time.
+**Smart Contract Developer** building secure Web3 products and developer tools.
 
-
-### 🔭 Currently:
-- Learning **Solidity** and **Smart Contract Security**
-
-### 🌱 On My Path To:
-- Building meaningful **DeFi tools** for people like me
-- Becoming a trusted voice in **Web3** by showing, not just telling
+Currently shipping: **CLI tool for smart contract deployment tracking** (launching soon)
 
 ---
 
-### 🧰 Tools, Skills:
-- `Solidity` | `Remix IDE` | `Git` | `Foundry`
-- Currently buildng:`Credra`
-- Next up: `Defi Protocols`,`Security Audits`, `Zero Knowledge`, 
+## 🚀 Current Focus
+
+### Smart Contract Deployment Tracker *(In Development)*
+CLI tool that helps developers track deployments across multiple networks.
+
+**Features:**
+- Track contract addresses across testnets and mainnets
+- Store deployment history and metadata
+- Quick verification status checks
+- Export deployment configs
+
+**Tech:** Node.js, Commander.js, Ethers.js  
+**Status:** Beta testing, launching Q1 2026
 
 ---
 
-### 🛠️ My Projects (Pinned 🔝):
-- [Min Defi Bank](https://github.com/Codegobli/MiniDefiBank) – mini defi bank
-- [Multisig Wallet](https://github.com/Codegobli/multisig-wallet-V1) – Multisig Wallet
-- [Credra](https://github.com/Codegobli/Credra) –  Credra
-- [Onchain-Resume](https://github.com/Codegobli/onchain-resume) – Onchain-Resume
+## 🛠️ Tech Stack
 
-
----
-
-### 📬 Reach Me:
-
-- LinkedIn: [Afolabi Samson](https://www.linkedin.com/in/afolabi-samson-089997345?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- Twitter/X: [@sam2codegobli](https://x.com/sam20codegobli?t=80Qp9GXsYGUj15dblNO2eg&s=09)
-- Farcaster: `@codegobli` (https://farcaster.xyz/codegobli)
-- Email: `afolabisamson20@gmail.com`
-- Mirror: `Sam` (https://mirror.xyz/0x38e9861056757EA6D47F709Bf31011B0E9a6D508)
+**Smart Contracts:** Solidity · Foundry · Hardhat · OpenZeppelin  
+**CLI/Tooling:** Node.js · Commander.js · Ethers.js  
+**Design:** Figma · Adobe XD
 
 ---
 
-> _"Consistency is the highest form of love you can give your dream."_  
-> —Me, every time I want to quit
+## 📌 Previous Projects
+
+**[Credra](https://github.com/Codegobli/Credra)** — Escrow payment platform (lead smart contract dev)  
+Built core escrow logic with 78 test cases and time-locked dispute resolution
+
+**[Mini DeFi Bank](https://github.com/Codegobli/MiniDefiBank)** — DeFi savings protocol  
+Auto-interest distribution with manual and automated claim options
+
+**[Multisig Wallet V1](https://github.com/Codegobli/multisig-wallet-V1)** — Multi-signature wallet  
+Configurable thresholds and owner management
+
+**[Onchain Resume](https://github.com/Codegobli/onchain-resume)** — Verifiable on-chain credentials
 
 ---
-> 
+
+## 📬 Let's Connect
+
+**Portfolio:** [notion.so/myPortfolio](https://www.notion.so/afolabisamson/My-Portfolio-24f55e2f691180ac8742f5e02a97e0cf?source=copy_link)  
+**LinkedIn:** [Afolabi Samson](https://www.linkedin.com/in/afolabi-samson-089997345)  
+**Twitter:** [@sam2codegobli](https://x.com/sam20codegobli)  
+**Email:** afolabisamson20@gmail.com
+
+---
+
+> *"Building tools that make Web3 development less painful."*
