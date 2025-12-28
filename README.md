@@ -24,7 +24,7 @@ CLI tool that helps developers track deployments across multiple networks.
 
 ## 🛠️ Tech Stack
 
-**Smart Contracts:** Solidity · Foundry · Hardhat · OpenZeppelin  
+**Smart Contracts:** Solidity · Foundry · Hardhat · OpenZeppelin · JavaScript
 **CLI/Tooling:** Node.js · Commander.js · Ethers.js  
 **Design:** Figma · Adobe XD
 
@@ -40,8 +40,6 @@ Auto-interest distribution with manual and automated claim options
 
 **[Multisig Wallet V1](https://github.com/Codegobli/multisig-wallet-V1)** — Multi-signature wallet  
 Configurable thresholds and owner management
-
-**[Onchain Resume](https://github.com/Codegobli/onchain-resume)** — Verifiable on-chain credentials
 
 ---
 
