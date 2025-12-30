@@ -1,6 +1,6 @@
 # Hey, I'm Sam 👋
 
-**Smart Contract Developer** building secure Web3 products and developer tools.
+**Web3 Builder** Building at Web3 × AI × Backend. Learning systems architecture by shipping products. JS, Solidity, Node..
 
 Currently shipping: **CLI tool for smart contract deployment tracking** (launching soon)
 
