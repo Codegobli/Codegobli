@@ -6,7 +6,7 @@ Currently shipping: **CLI tool for smart contract deployment tracking** (launchi
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
 ### **[Clinch-Cli](https://github.com/Codegobli/clinch-cli)**                     
 Smart Contract Deployment Tracker *(In Development)*
