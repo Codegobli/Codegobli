@@ -10,7 +10,7 @@ I build developer tools that make blockchain development less painful. Currently
 
 ##  Current Projects
 
-### **[Clinch](https://github.com/Codegobli/clinch-cli)** - Smart Contract Registry CLI
+### **[Clinch](https://github.com/samsonafolabi/clinch-cli)** - Smart Contract Registry CLI
 *Shipping Q1 2026*
 
 A developer tool that eliminates the chaos of tracking contract deployments across networks.
@@ -85,7 +85,7 @@ Figma · Adobe XD
 
 ##  Shipped Projects
 
-### **[Credra](https://github.com/Codegobli/Credra)** - Escrow Payment Platform
+### **[Credra](https://github.com/samsonafolabi/Credra)** - Escrow Payment Platform
 *Lead Smart Contract Developer*
 
 Built production-grade escrow logic with time-locked dispute resolution.
@@ -100,7 +100,7 @@ Built production-grade escrow logic with time-locked dispute resolution.
 
 ---
 
-### **[Mini DeFi Bank](https://github.com/Codegobli/MiniDefiBank)** - DeFi Savings Protocol
+### **[Mini DeFi Bank](https://github.com/samsonafolabi/MiniDefiBank)** - DeFi Savings Protocol
 
 Auto-interest distribution protocol with flexible claim mechanisms.
 
@@ -113,7 +113,7 @@ Auto-interest distribution protocol with flexible claim mechanisms.
 
 ---
 
-### **[Multisig Wallet V1](https://github.com/Codegobli/multisig-wallet-V1)**
+### **[Multisig Wallet V1](https://github.com/samsonafolabi/multisig-wallet-V1)**
 
 Multi-signature wallet with dynamic threshold management.
 
@@ -138,7 +138,7 @@ Currently deep-diving into:
 
 ## 📊 GitHub Stats
 
-![Sam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Codegobli&show_icons=true&theme=radical)
+![Sam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samsonafolabi&show_icons=true&theme=radical)
 
 ---
 
