@@ -1,6 +1,7 @@
 # Sam Afolabi
 
 **Systems Builder for AI Agents**
+
 System Design · Agentic Security · Fintech
 
 I build backend systems that help AI agents operate safely and transparently — from behavioral intelligence to transaction verification, on-chain and off.
